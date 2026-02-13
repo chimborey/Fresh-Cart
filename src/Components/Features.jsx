@@ -8,7 +8,7 @@ const Features = () => {
                   <section className=" bg-green-100 transition-colors duration-300">
                         <div className="container mx-auto px-6">
                               {/* <!-- Section Header --> */}
-                              <div className="text-center mb-16 py-24">
+                              <div className="text-center mb-16 py-24" data-aos="zoom-in" data-aos-delay="100">
                                     <h2 className="text-4xl md:text-5xl font-light tracking-tight mb-4 text-black">
                                           <span className="bg-clip-text text-black">Powerful features</span>
                                           for modern teams
